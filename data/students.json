@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "name": "Rahul",
+      "roll_no": "101",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Absent",
+        "Day 3": "Present",
+        "Day 5": "Absent"
+      },
+      "total_days": 4,
+      "days_present": 2
+    },
+    {
+      "name": "Priya",
+      "roll_no": "102",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Absent",
+        "Day 3": "Present",
+        "Day 4": "Present",
+        "Day 5": "Present"
+      },
+      "total_days": 5,
+      "days_present": 4
+    },
+    {
+      "name": "Amit",
+      "roll_no": "103",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Absent",
+        "Day 3": "Absent",
+        "Day 4": "Present",
+        "Day 5": "Absent"
+      },
+      "total_days": 5,
+      "days_present": 2
+    },
+    {
+      "name": "Sneha",
+      "roll_no": "104",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Present",
+        "Day 3": "Present",
+        "Day 4": "Present",
+        "Day 5": "Absent"
+      },
+      "total_days": 5,
+      "days_present": 4
+    },
+    {
+      "name": "Rohan",
+      "roll_no": "105",
+      "attendance": {
+        "Day 1": "Absent",
+        "Day 2": "Present",
+        "Day 3": "Present",
+        "Day 4": "Absent",
+        "Day 5": "Present"
+      },
+      "total_days": 5,
+      "days_present": 3
+    }
+  ]
+}

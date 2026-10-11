@@ -1,0 +1,19 @@
+# Environment variable files
+.env
+
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
